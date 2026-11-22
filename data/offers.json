@@ -1,0 +1,34 @@
+[
+  {
+    "offer": "O1",
+    "booking": "B2400",
+    "option_day": "2026-08-15",
+    "product": "观礼",
+    "state": "已发未答",
+    "sent": "2026-08-14"
+  },
+  {
+    "offer": "O2",
+    "booking": "B2400",
+    "option_day": "2026-08-16",
+    "product": "游线晚",
+    "state": "已发未答",
+    "sent": "2026-08-14"
+  },
+  {
+    "offer": "O3",
+    "booking": "B2401",
+    "option_day": "2026-08-15",
+    "product": "游线晚",
+    "state": "已接受",
+    "sent": "2026-08-14"
+  },
+  {
+    "offer": "O4",
+    "booking": "B2402",
+    "option_day": "2026-08-16",
+    "product": "游线晚",
+    "state": "已拒绝",
+    "sent": "2026-08-14"
+  }
+]

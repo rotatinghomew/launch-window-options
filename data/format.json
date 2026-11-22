@@ -1,0 +1,85 @@
+{
+  "fields": {
+    "notices": [
+      "event",
+      "notice",
+      "kind",
+      "known",
+      "possible_days",
+      "site"
+    ],
+    "parties": [
+      "booking",
+      "event",
+      "first_day",
+      "tour",
+      "people",
+      "allowed_days",
+      "fallback",
+      "refund",
+      "priority",
+      "until",
+      "existing",
+      "option"
+    ],
+    "choices": [
+      "booking",
+      "day",
+      "offer_day",
+      "choice",
+      "actual_per_unit"
+    ],
+    "allocations": [
+      "event",
+      "day",
+      "product",
+      "vehicle",
+      "venue",
+      "car_seats",
+      "site_seats",
+      "car_cost",
+      "site_cost"
+    ],
+    "offers": [
+      "offer",
+      "booking",
+      "option_day",
+      "product",
+      "state",
+      "sent"
+    ],
+    "terms": [
+      "terms",
+      "deadline_days",
+      "max_refund",
+      "services",
+      "min_notice"
+    ]
+  },
+  "references": [
+    [
+      "parties",
+      "event",
+      "notices",
+      "event"
+    ],
+    [
+      "allocations",
+      "event",
+      "notices",
+      "event"
+    ],
+    [
+      "choices",
+      "booking",
+      "parties",
+      "booking"
+    ],
+    [
+      "offers",
+      "booking",
+      "parties",
+      "booking"
+    ]
+  ]
+}

@@ -1,0 +1,1010 @@
+[
+  {
+    "booking": "B0001",
+    "day": "2026-06-04",
+    "offer_day": "2026-06-06",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0003",
+    "day": "2026-06-04",
+    "offer_day": "2026-06-05",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0004",
+    "day": "2026-06-04",
+    "offer_day": "2026-06-06",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0005",
+    "day": "2026-06-04",
+    "offer_day": "2026-06-06",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0006",
+    "day": "2026-06-04",
+    "offer_day": "2026-06-05",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0101",
+    "day": "2026-06-07",
+    "offer_day": "2026-06-09",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0103",
+    "day": "2026-06-07",
+    "offer_day": "2026-06-08",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0104",
+    "day": "2026-06-07",
+    "offer_day": "2026-06-09",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0105",
+    "day": "2026-06-07",
+    "offer_day": "2026-06-09",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0106",
+    "day": "2026-06-07",
+    "offer_day": "2026-06-08",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0108",
+    "day": "2026-06-07",
+    "offer_day": "2026-06-09",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0201",
+    "day": "2026-06-10",
+    "offer_day": "2026-06-12",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0203",
+    "day": "2026-06-10",
+    "offer_day": "2026-06-11",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0204",
+    "day": "2026-06-10",
+    "offer_day": "2026-06-12",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0205",
+    "day": "2026-06-10",
+    "offer_day": "2026-06-12",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0206",
+    "day": "2026-06-10",
+    "offer_day": "2026-06-11",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0208",
+    "day": "2026-06-10",
+    "offer_day": "2026-06-12",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0301",
+    "day": "2026-06-13",
+    "offer_day": "2026-06-15",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0303",
+    "day": "2026-06-13",
+    "offer_day": "2026-06-14",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0304",
+    "day": "2026-06-13",
+    "offer_day": "2026-06-15",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0305",
+    "day": "2026-06-13",
+    "offer_day": "2026-06-15",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0306",
+    "day": "2026-06-13",
+    "offer_day": "2026-06-14",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0308",
+    "day": "2026-06-13",
+    "offer_day": "2026-06-15",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0310",
+    "day": "2026-06-13",
+    "offer_day": "2026-06-15",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0401",
+    "day": "2026-06-16",
+    "offer_day": "2026-06-18",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0403",
+    "day": "2026-06-16",
+    "offer_day": "2026-06-17",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0404",
+    "day": "2026-06-16",
+    "offer_day": "2026-06-18",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0405",
+    "day": "2026-06-16",
+    "offer_day": "2026-06-18",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0406",
+    "day": "2026-06-16",
+    "offer_day": "2026-06-17",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0408",
+    "day": "2026-06-16",
+    "offer_day": "2026-06-18",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0410",
+    "day": "2026-06-16",
+    "offer_day": "2026-06-18",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0411",
+    "day": "2026-06-16",
+    "offer_day": "2026-06-18",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0501",
+    "day": "2026-06-19",
+    "offer_day": "2026-06-21",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0503",
+    "day": "2026-06-19",
+    "offer_day": "2026-06-20",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0504",
+    "day": "2026-06-19",
+    "offer_day": "2026-06-21",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0505",
+    "day": "2026-06-19",
+    "offer_day": "2026-06-21",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0506",
+    "day": "2026-06-19",
+    "offer_day": "2026-06-20",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0601",
+    "day": "2026-06-22",
+    "offer_day": "2026-06-24",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0603",
+    "day": "2026-06-22",
+    "offer_day": "2026-06-23",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0604",
+    "day": "2026-06-22",
+    "offer_day": "2026-06-24",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0605",
+    "day": "2026-06-22",
+    "offer_day": "2026-06-24",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0606",
+    "day": "2026-06-22",
+    "offer_day": "2026-06-23",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0608",
+    "day": "2026-06-22",
+    "offer_day": "2026-06-24",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0701",
+    "day": "2026-06-25",
+    "offer_day": "2026-06-27",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0703",
+    "day": "2026-06-25",
+    "offer_day": "2026-06-26",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0704",
+    "day": "2026-06-25",
+    "offer_day": "2026-06-27",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0705",
+    "day": "2026-06-25",
+    "offer_day": "2026-06-27",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0706",
+    "day": "2026-06-25",
+    "offer_day": "2026-06-26",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0708",
+    "day": "2026-06-25",
+    "offer_day": "2026-06-27",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0801",
+    "day": "2026-06-28",
+    "offer_day": "2026-06-30",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0803",
+    "day": "2026-06-28",
+    "offer_day": "2026-06-29",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0804",
+    "day": "2026-06-28",
+    "offer_day": "2026-06-30",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0805",
+    "day": "2026-06-28",
+    "offer_day": "2026-06-30",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0806",
+    "day": "2026-06-28",
+    "offer_day": "2026-06-29",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0808",
+    "day": "2026-06-28",
+    "offer_day": "2026-06-30",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0810",
+    "day": "2026-06-28",
+    "offer_day": "2026-06-30",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0901",
+    "day": "2026-07-01",
+    "offer_day": "2026-07-03",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0903",
+    "day": "2026-07-01",
+    "offer_day": "2026-07-02",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0904",
+    "day": "2026-07-01",
+    "offer_day": "2026-07-03",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0905",
+    "day": "2026-07-01",
+    "offer_day": "2026-07-03",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B0906",
+    "day": "2026-07-01",
+    "offer_day": "2026-07-02",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B0908",
+    "day": "2026-07-01",
+    "offer_day": "2026-07-03",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0910",
+    "day": "2026-07-01",
+    "offer_day": "2026-07-03",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B0911",
+    "day": "2026-07-01",
+    "offer_day": "2026-07-03",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1001",
+    "day": "2026-07-04",
+    "offer_day": "2026-07-06",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1003",
+    "day": "2026-07-04",
+    "offer_day": "2026-07-05",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1004",
+    "day": "2026-07-04",
+    "offer_day": "2026-07-06",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1005",
+    "day": "2026-07-04",
+    "offer_day": "2026-07-06",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1006",
+    "day": "2026-07-04",
+    "offer_day": "2026-07-05",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1101",
+    "day": "2026-07-07",
+    "offer_day": "2026-07-09",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1103",
+    "day": "2026-07-07",
+    "offer_day": "2026-07-08",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1104",
+    "day": "2026-07-07",
+    "offer_day": "2026-07-09",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1105",
+    "day": "2026-07-07",
+    "offer_day": "2026-07-09",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1106",
+    "day": "2026-07-07",
+    "offer_day": "2026-07-08",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1108",
+    "day": "2026-07-07",
+    "offer_day": "2026-07-09",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1201",
+    "day": "2026-07-10",
+    "offer_day": "2026-07-12",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1203",
+    "day": "2026-07-10",
+    "offer_day": "2026-07-11",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1204",
+    "day": "2026-07-10",
+    "offer_day": "2026-07-12",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1205",
+    "day": "2026-07-10",
+    "offer_day": "2026-07-12",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1206",
+    "day": "2026-07-10",
+    "offer_day": "2026-07-11",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1208",
+    "day": "2026-07-10",
+    "offer_day": "2026-07-12",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1301",
+    "day": "2026-07-13",
+    "offer_day": "2026-07-15",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1303",
+    "day": "2026-07-13",
+    "offer_day": "2026-07-14",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1304",
+    "day": "2026-07-13",
+    "offer_day": "2026-07-15",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1305",
+    "day": "2026-07-13",
+    "offer_day": "2026-07-15",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1306",
+    "day": "2026-07-13",
+    "offer_day": "2026-07-14",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1308",
+    "day": "2026-07-13",
+    "offer_day": "2026-07-15",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1310",
+    "day": "2026-07-13",
+    "offer_day": "2026-07-15",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1501",
+    "day": "2026-07-19",
+    "offer_day": "2026-07-21",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1503",
+    "day": "2026-07-19",
+    "offer_day": "2026-07-20",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1504",
+    "day": "2026-07-19",
+    "offer_day": "2026-07-21",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1505",
+    "day": "2026-07-19",
+    "offer_day": "2026-07-21",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1506",
+    "day": "2026-07-19",
+    "offer_day": "2026-07-20",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1601",
+    "day": "2026-07-22",
+    "offer_day": "2026-07-24",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1603",
+    "day": "2026-07-22",
+    "offer_day": "2026-07-23",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1604",
+    "day": "2026-07-22",
+    "offer_day": "2026-07-24",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1605",
+    "day": "2026-07-22",
+    "offer_day": "2026-07-24",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1606",
+    "day": "2026-07-22",
+    "offer_day": "2026-07-23",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1608",
+    "day": "2026-07-22",
+    "offer_day": "2026-07-24",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1701",
+    "day": "2026-07-25",
+    "offer_day": "2026-07-27",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1703",
+    "day": "2026-07-25",
+    "offer_day": "2026-07-26",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1704",
+    "day": "2026-07-25",
+    "offer_day": "2026-07-27",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1705",
+    "day": "2026-07-25",
+    "offer_day": "2026-07-27",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1706",
+    "day": "2026-07-25",
+    "offer_day": "2026-07-26",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1708",
+    "day": "2026-07-25",
+    "offer_day": "2026-07-27",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1801",
+    "day": "2026-07-28",
+    "offer_day": "2026-07-30",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1803",
+    "day": "2026-07-28",
+    "offer_day": "2026-07-29",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1804",
+    "day": "2026-07-28",
+    "offer_day": "2026-07-30",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1805",
+    "day": "2026-07-28",
+    "offer_day": "2026-07-30",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1806",
+    "day": "2026-07-28",
+    "offer_day": "2026-07-29",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1808",
+    "day": "2026-07-28",
+    "offer_day": "2026-07-30",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1810",
+    "day": "2026-07-28",
+    "offer_day": "2026-07-30",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1901",
+    "day": "2026-07-31",
+    "offer_day": "2026-08-02",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1903",
+    "day": "2026-07-31",
+    "offer_day": "2026-08-01",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1904",
+    "day": "2026-07-31",
+    "offer_day": "2026-08-02",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1905",
+    "day": "2026-07-31",
+    "offer_day": "2026-08-02",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B1906",
+    "day": "2026-07-31",
+    "offer_day": "2026-08-01",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B1908",
+    "day": "2026-07-31",
+    "offer_day": "2026-08-02",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1910",
+    "day": "2026-07-31",
+    "offer_day": "2026-08-02",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B1911",
+    "day": "2026-07-31",
+    "offer_day": "2026-08-02",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B2001",
+    "day": "2026-08-03",
+    "offer_day": "2026-08-05",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B2003",
+    "day": "2026-08-03",
+    "offer_day": "2026-08-04",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B2004",
+    "day": "2026-08-03",
+    "offer_day": "2026-08-05",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B2005",
+    "day": "2026-08-03",
+    "offer_day": "2026-08-05",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B2006",
+    "day": "2026-08-03",
+    "offer_day": "2026-08-04",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B2101",
+    "day": "2026-08-06",
+    "offer_day": "2026-08-08",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B2103",
+    "day": "2026-08-06",
+    "offer_day": "2026-08-07",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B2104",
+    "day": "2026-08-06",
+    "offer_day": "2026-08-08",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B2105",
+    "day": "2026-08-06",
+    "offer_day": "2026-08-08",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B2106",
+    "day": "2026-08-06",
+    "offer_day": "2026-08-07",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B2108",
+    "day": "2026-08-06",
+    "offer_day": "2026-08-08",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B2201",
+    "day": "2026-08-09",
+    "offer_day": "2026-08-11",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B2203",
+    "day": "2026-08-09",
+    "offer_day": "2026-08-10",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B2204",
+    "day": "2026-08-09",
+    "offer_day": "2026-08-11",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B2205",
+    "day": "2026-08-09",
+    "offer_day": "2026-08-11",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B2206",
+    "day": "2026-08-09",
+    "offer_day": "2026-08-10",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B2208",
+    "day": "2026-08-09",
+    "offer_day": "2026-08-11",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B2301",
+    "day": "2026-08-12",
+    "offer_day": "2026-08-14",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B2303",
+    "day": "2026-08-12",
+    "offer_day": "2026-08-13",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B2304",
+    "day": "2026-08-12",
+    "offer_day": "2026-08-14",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B2305",
+    "day": "2026-08-12",
+    "offer_day": "2026-08-14",
+    "choice": "明确退费",
+    "actual_per_unit": 120
+  },
+  {
+    "booking": "B2306",
+    "day": "2026-08-12",
+    "offer_day": "2026-08-13",
+    "choice": "改到观礼",
+    "actual_per_unit": 0
+  },
+  {
+    "booking": "B2308",
+    "day": "2026-08-12",
+    "offer_day": "2026-08-14",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  },
+  {
+    "booking": "B2310",
+    "day": "2026-08-12",
+    "offer_day": "2026-08-14",
+    "choice": "同意普通游线",
+    "actual_per_unit": 30
+  }
+]

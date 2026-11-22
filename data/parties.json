@@ -1,0 +1,4692 @@
+[
+  {
+    "booking": "B0000",
+    "event": "L00",
+    "first_day": "2026-06-04",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-04",
+      "2026-06-05"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-06-05",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0001",
+    "event": "L00",
+    "first_day": "2026-06-04",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-04",
+      "2026-06-06"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-06",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0002",
+    "event": "L00",
+    "first_day": "2026-06-04",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-05",
+      "2026-06-06"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-05",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0003",
+    "event": "L00",
+    "first_day": "2026-06-04",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-04",
+      "2026-06-05"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-06",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0004",
+    "event": "L00",
+    "first_day": "2026-06-04",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-04",
+      "2026-06-06"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-06-05",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0005",
+    "event": "L00",
+    "first_day": "2026-06-04",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-05",
+      "2026-06-06"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-06",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0006",
+    "event": "L00",
+    "first_day": "2026-06-04",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-04",
+      "2026-06-05"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-05",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0007",
+    "event": "L00",
+    "first_day": "2026-06-04",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-04",
+      "2026-06-06"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-06",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0100",
+    "event": "L01",
+    "first_day": "2026-06-07",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-07",
+      "2026-06-08"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-06-08",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0101",
+    "event": "L01",
+    "first_day": "2026-06-07",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-07",
+      "2026-06-09"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-09",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0102",
+    "event": "L01",
+    "first_day": "2026-06-07",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-08",
+      "2026-06-09"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-08",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0103",
+    "event": "L01",
+    "first_day": "2026-06-07",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-07",
+      "2026-06-08"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-09",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0104",
+    "event": "L01",
+    "first_day": "2026-06-07",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-07",
+      "2026-06-09"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-06-08",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0105",
+    "event": "L01",
+    "first_day": "2026-06-07",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-08",
+      "2026-06-09"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-09",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0106",
+    "event": "L01",
+    "first_day": "2026-06-07",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-07",
+      "2026-06-08"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-08",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0107",
+    "event": "L01",
+    "first_day": "2026-06-07",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-07",
+      "2026-06-09"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-09",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0108",
+    "event": "L01",
+    "first_day": "2026-06-07",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-08",
+      "2026-06-09"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-06-08",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0200",
+    "event": "L02",
+    "first_day": "2026-06-10",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-10",
+      "2026-06-11"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-06-11",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0201",
+    "event": "L02",
+    "first_day": "2026-06-10",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-10",
+      "2026-06-12"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-12",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0202",
+    "event": "L02",
+    "first_day": "2026-06-10",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-11",
+      "2026-06-12"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-11",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0203",
+    "event": "L02",
+    "first_day": "2026-06-10",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-10",
+      "2026-06-11"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-12",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0204",
+    "event": "L02",
+    "first_day": "2026-06-10",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-10",
+      "2026-06-12"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-06-11",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0205",
+    "event": "L02",
+    "first_day": "2026-06-10",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-11",
+      "2026-06-12"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-12",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0206",
+    "event": "L02",
+    "first_day": "2026-06-10",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-10",
+      "2026-06-11"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-11",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0207",
+    "event": "L02",
+    "first_day": "2026-06-10",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-10",
+      "2026-06-12"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-12",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0208",
+    "event": "L02",
+    "first_day": "2026-06-10",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-11",
+      "2026-06-12"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-06-11",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0209",
+    "event": "L02",
+    "first_day": "2026-06-10",
+    "tour": "团2",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-10",
+      "2026-06-11"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-12",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0300",
+    "event": "L03",
+    "first_day": "2026-06-13",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-13",
+      "2026-06-14"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-06-14",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0301",
+    "event": "L03",
+    "first_day": "2026-06-13",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-13",
+      "2026-06-15"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-15",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0302",
+    "event": "L03",
+    "first_day": "2026-06-13",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-14",
+      "2026-06-15"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-14",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0303",
+    "event": "L03",
+    "first_day": "2026-06-13",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-13",
+      "2026-06-14"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-15",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0304",
+    "event": "L03",
+    "first_day": "2026-06-13",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-13",
+      "2026-06-15"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-06-14",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0305",
+    "event": "L03",
+    "first_day": "2026-06-13",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-14",
+      "2026-06-15"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-15",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0306",
+    "event": "L03",
+    "first_day": "2026-06-13",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-13",
+      "2026-06-14"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-14",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0307",
+    "event": "L03",
+    "first_day": "2026-06-13",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-13",
+      "2026-06-15"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-15",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0308",
+    "event": "L03",
+    "first_day": "2026-06-13",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-14",
+      "2026-06-15"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-06-14",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0309",
+    "event": "L03",
+    "first_day": "2026-06-13",
+    "tour": "团2",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-13",
+      "2026-06-14"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-15",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0310",
+    "event": "L03",
+    "first_day": "2026-06-13",
+    "tour": "团2",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-13",
+      "2026-06-15"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-14",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0400",
+    "event": "L04",
+    "first_day": "2026-06-16",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-16",
+      "2026-06-17"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-06-17",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0401",
+    "event": "L04",
+    "first_day": "2026-06-16",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-16",
+      "2026-06-18"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-18",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0402",
+    "event": "L04",
+    "first_day": "2026-06-16",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-17",
+      "2026-06-18"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-17",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0403",
+    "event": "L04",
+    "first_day": "2026-06-16",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-16",
+      "2026-06-17"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-18",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0404",
+    "event": "L04",
+    "first_day": "2026-06-16",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-16",
+      "2026-06-18"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-06-17",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0405",
+    "event": "L04",
+    "first_day": "2026-06-16",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-17",
+      "2026-06-18"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-18",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0406",
+    "event": "L04",
+    "first_day": "2026-06-16",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-16",
+      "2026-06-17"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-17",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0407",
+    "event": "L04",
+    "first_day": "2026-06-16",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-16",
+      "2026-06-18"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-18",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0408",
+    "event": "L04",
+    "first_day": "2026-06-16",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-17",
+      "2026-06-18"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-06-17",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0409",
+    "event": "L04",
+    "first_day": "2026-06-16",
+    "tour": "团2",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-16",
+      "2026-06-17"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-18",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0410",
+    "event": "L04",
+    "first_day": "2026-06-16",
+    "tour": "团2",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-16",
+      "2026-06-18"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-17",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0411",
+    "event": "L04",
+    "first_day": "2026-06-16",
+    "tour": "团2",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-17",
+      "2026-06-18"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-18",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0500",
+    "event": "L05",
+    "first_day": "2026-06-19",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-19",
+      "2026-06-20"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-06-20",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0501",
+    "event": "L05",
+    "first_day": "2026-06-19",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-19",
+      "2026-06-21"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-21",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0502",
+    "event": "L05",
+    "first_day": "2026-06-19",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-20",
+      "2026-06-21"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-20",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0503",
+    "event": "L05",
+    "first_day": "2026-06-19",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-19",
+      "2026-06-20"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-21",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0504",
+    "event": "L05",
+    "first_day": "2026-06-19",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-19",
+      "2026-06-21"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-06-20",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0505",
+    "event": "L05",
+    "first_day": "2026-06-19",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-20",
+      "2026-06-21"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-21",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0506",
+    "event": "L05",
+    "first_day": "2026-06-19",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-19",
+      "2026-06-20"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-20",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0507",
+    "event": "L05",
+    "first_day": "2026-06-19",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-19",
+      "2026-06-21"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-21",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0600",
+    "event": "L06",
+    "first_day": "2026-06-22",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-22",
+      "2026-06-23"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-06-23",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0601",
+    "event": "L06",
+    "first_day": "2026-06-22",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-22",
+      "2026-06-24"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-24",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0602",
+    "event": "L06",
+    "first_day": "2026-06-22",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-23",
+      "2026-06-24"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-23",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0603",
+    "event": "L06",
+    "first_day": "2026-06-22",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-22",
+      "2026-06-23"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-24",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0604",
+    "event": "L06",
+    "first_day": "2026-06-22",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-22",
+      "2026-06-24"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-06-23",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0605",
+    "event": "L06",
+    "first_day": "2026-06-22",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-23",
+      "2026-06-24"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-24",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0606",
+    "event": "L06",
+    "first_day": "2026-06-22",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-22",
+      "2026-06-23"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-23",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0607",
+    "event": "L06",
+    "first_day": "2026-06-22",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-22",
+      "2026-06-24"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-24",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0608",
+    "event": "L06",
+    "first_day": "2026-06-22",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-23",
+      "2026-06-24"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-06-23",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0700",
+    "event": "L07",
+    "first_day": "2026-06-25",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-25",
+      "2026-06-26"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-06-26",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0701",
+    "event": "L07",
+    "first_day": "2026-06-25",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-25",
+      "2026-06-27"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-27",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0702",
+    "event": "L07",
+    "first_day": "2026-06-25",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-26",
+      "2026-06-27"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-26",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0703",
+    "event": "L07",
+    "first_day": "2026-06-25",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-25",
+      "2026-06-26"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-27",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0704",
+    "event": "L07",
+    "first_day": "2026-06-25",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-25",
+      "2026-06-27"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-06-26",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0705",
+    "event": "L07",
+    "first_day": "2026-06-25",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-26",
+      "2026-06-27"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-27",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0706",
+    "event": "L07",
+    "first_day": "2026-06-25",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-25",
+      "2026-06-26"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-26",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0707",
+    "event": "L07",
+    "first_day": "2026-06-25",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-25",
+      "2026-06-27"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-27",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0708",
+    "event": "L07",
+    "first_day": "2026-06-25",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-26",
+      "2026-06-27"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-06-26",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0709",
+    "event": "L07",
+    "first_day": "2026-06-25",
+    "tour": "团2",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-25",
+      "2026-06-26"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-27",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0800",
+    "event": "L08",
+    "first_day": "2026-06-28",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-28",
+      "2026-06-29"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-06-29",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0801",
+    "event": "L08",
+    "first_day": "2026-06-28",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-28",
+      "2026-06-30"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-30",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0802",
+    "event": "L08",
+    "first_day": "2026-06-28",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-29",
+      "2026-06-30"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-29",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0803",
+    "event": "L08",
+    "first_day": "2026-06-28",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-28",
+      "2026-06-29"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-30",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0804",
+    "event": "L08",
+    "first_day": "2026-06-28",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-28",
+      "2026-06-30"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-06-29",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0805",
+    "event": "L08",
+    "first_day": "2026-06-28",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-29",
+      "2026-06-30"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-06-30",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0806",
+    "event": "L08",
+    "first_day": "2026-06-28",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-28",
+      "2026-06-29"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-29",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0807",
+    "event": "L08",
+    "first_day": "2026-06-28",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-06-28",
+      "2026-06-30"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-30",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0808",
+    "event": "L08",
+    "first_day": "2026-06-28",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-06-29",
+      "2026-06-30"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-06-29",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0809",
+    "event": "L08",
+    "first_day": "2026-06-28",
+    "tour": "团2",
+    "people": 2,
+    "allowed_days": [
+      "2026-06-28",
+      "2026-06-29"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-06-30",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0810",
+    "event": "L08",
+    "first_day": "2026-06-28",
+    "tour": "团2",
+    "people": 3,
+    "allowed_days": [
+      "2026-06-28",
+      "2026-06-30"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-06-29",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0900",
+    "event": "L09",
+    "first_day": "2026-07-01",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-01",
+      "2026-07-02"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-07-02",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0901",
+    "event": "L09",
+    "first_day": "2026-07-01",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-01",
+      "2026-07-03"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-03",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0902",
+    "event": "L09",
+    "first_day": "2026-07-01",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-02",
+      "2026-07-03"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-02",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0903",
+    "event": "L09",
+    "first_day": "2026-07-01",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-01",
+      "2026-07-02"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-03",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0904",
+    "event": "L09",
+    "first_day": "2026-07-01",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-01",
+      "2026-07-03"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-07-02",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0905",
+    "event": "L09",
+    "first_day": "2026-07-01",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-02",
+      "2026-07-03"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-03",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0906",
+    "event": "L09",
+    "first_day": "2026-07-01",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-01",
+      "2026-07-02"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-02",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0907",
+    "event": "L09",
+    "first_day": "2026-07-01",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-01",
+      "2026-07-03"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-03",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0908",
+    "event": "L09",
+    "first_day": "2026-07-01",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-02",
+      "2026-07-03"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-07-02",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0909",
+    "event": "L09",
+    "first_day": "2026-07-01",
+    "tour": "团2",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-01",
+      "2026-07-02"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-03",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B0910",
+    "event": "L09",
+    "first_day": "2026-07-01",
+    "tour": "团2",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-01",
+      "2026-07-03"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-02",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B0911",
+    "event": "L09",
+    "first_day": "2026-07-01",
+    "tour": "团2",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-02",
+      "2026-07-03"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-03",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1000",
+    "event": "L10",
+    "first_day": "2026-07-04",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-04",
+      "2026-07-05"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-07-05",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1001",
+    "event": "L10",
+    "first_day": "2026-07-04",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-04",
+      "2026-07-06"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-06",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1002",
+    "event": "L10",
+    "first_day": "2026-07-04",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-05",
+      "2026-07-06"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-05",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1003",
+    "event": "L10",
+    "first_day": "2026-07-04",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-04",
+      "2026-07-05"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-06",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1004",
+    "event": "L10",
+    "first_day": "2026-07-04",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-04",
+      "2026-07-06"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-07-05",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1005",
+    "event": "L10",
+    "first_day": "2026-07-04",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-05",
+      "2026-07-06"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-06",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1006",
+    "event": "L10",
+    "first_day": "2026-07-04",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-04",
+      "2026-07-05"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-05",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1007",
+    "event": "L10",
+    "first_day": "2026-07-04",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-04",
+      "2026-07-06"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-06",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1100",
+    "event": "L11",
+    "first_day": "2026-07-07",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-07",
+      "2026-07-08"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-07-08",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1101",
+    "event": "L11",
+    "first_day": "2026-07-07",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-07",
+      "2026-07-09"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-09",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1102",
+    "event": "L11",
+    "first_day": "2026-07-07",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-08",
+      "2026-07-09"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-08",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1103",
+    "event": "L11",
+    "first_day": "2026-07-07",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-07",
+      "2026-07-08"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-09",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1104",
+    "event": "L11",
+    "first_day": "2026-07-07",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-07",
+      "2026-07-09"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-07-08",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1105",
+    "event": "L11",
+    "first_day": "2026-07-07",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-08",
+      "2026-07-09"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-09",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1106",
+    "event": "L11",
+    "first_day": "2026-07-07",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-07",
+      "2026-07-08"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-08",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1107",
+    "event": "L11",
+    "first_day": "2026-07-07",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-07",
+      "2026-07-09"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-09",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1108",
+    "event": "L11",
+    "first_day": "2026-07-07",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-08",
+      "2026-07-09"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-07-08",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1200",
+    "event": "L12",
+    "first_day": "2026-07-10",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-10",
+      "2026-07-11"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-07-11",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1201",
+    "event": "L12",
+    "first_day": "2026-07-10",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-10",
+      "2026-07-12"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-12",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1202",
+    "event": "L12",
+    "first_day": "2026-07-10",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-11",
+      "2026-07-12"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-11",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1203",
+    "event": "L12",
+    "first_day": "2026-07-10",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-10",
+      "2026-07-11"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-12",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1204",
+    "event": "L12",
+    "first_day": "2026-07-10",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-10",
+      "2026-07-12"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-07-11",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1205",
+    "event": "L12",
+    "first_day": "2026-07-10",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-11",
+      "2026-07-12"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-12",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1206",
+    "event": "L12",
+    "first_day": "2026-07-10",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-10",
+      "2026-07-11"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-11",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1207",
+    "event": "L12",
+    "first_day": "2026-07-10",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-10",
+      "2026-07-12"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-12",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1208",
+    "event": "L12",
+    "first_day": "2026-07-10",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-11",
+      "2026-07-12"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-07-11",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1209",
+    "event": "L12",
+    "first_day": "2026-07-10",
+    "tour": "团2",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-10",
+      "2026-07-11"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-12",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1300",
+    "event": "L13",
+    "first_day": "2026-07-13",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-13",
+      "2026-07-14"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-07-14",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1301",
+    "event": "L13",
+    "first_day": "2026-07-13",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-13",
+      "2026-07-15"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-15",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1302",
+    "event": "L13",
+    "first_day": "2026-07-13",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-14",
+      "2026-07-15"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-14",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1303",
+    "event": "L13",
+    "first_day": "2026-07-13",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-13",
+      "2026-07-14"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-15",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1304",
+    "event": "L13",
+    "first_day": "2026-07-13",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-13",
+      "2026-07-15"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-07-14",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1305",
+    "event": "L13",
+    "first_day": "2026-07-13",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-14",
+      "2026-07-15"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-15",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1306",
+    "event": "L13",
+    "first_day": "2026-07-13",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-13",
+      "2026-07-14"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-14",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1307",
+    "event": "L13",
+    "first_day": "2026-07-13",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-13",
+      "2026-07-15"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-15",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1308",
+    "event": "L13",
+    "first_day": "2026-07-13",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-14",
+      "2026-07-15"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-07-14",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1309",
+    "event": "L13",
+    "first_day": "2026-07-13",
+    "tour": "团2",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-13",
+      "2026-07-14"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-15",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1310",
+    "event": "L13",
+    "first_day": "2026-07-13",
+    "tour": "团2",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-13",
+      "2026-07-15"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-14",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1400",
+    "event": "L14",
+    "first_day": "2026-07-16",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-16",
+      "2026-07-17"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-07-17",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1401",
+    "event": "L14",
+    "first_day": "2026-07-16",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-16",
+      "2026-07-18"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-18",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1402",
+    "event": "L14",
+    "first_day": "2026-07-16",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-17",
+      "2026-07-18"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-17",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1403",
+    "event": "L14",
+    "first_day": "2026-07-16",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-16",
+      "2026-07-17"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-18",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1404",
+    "event": "L14",
+    "first_day": "2026-07-16",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-16",
+      "2026-07-18"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-07-17",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1405",
+    "event": "L14",
+    "first_day": "2026-07-16",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-17",
+      "2026-07-18"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-18",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1406",
+    "event": "L14",
+    "first_day": "2026-07-16",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-16",
+      "2026-07-17"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-17",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1407",
+    "event": "L14",
+    "first_day": "2026-07-16",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-16",
+      "2026-07-18"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-18",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1408",
+    "event": "L14",
+    "first_day": "2026-07-16",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-17",
+      "2026-07-18"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-07-17",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1409",
+    "event": "L14",
+    "first_day": "2026-07-16",
+    "tour": "团2",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-16",
+      "2026-07-17"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-18",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1410",
+    "event": "L14",
+    "first_day": "2026-07-16",
+    "tour": "团2",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-16",
+      "2026-07-18"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-17",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1411",
+    "event": "L14",
+    "first_day": "2026-07-16",
+    "tour": "团2",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-17",
+      "2026-07-18"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-18",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1500",
+    "event": "L15",
+    "first_day": "2026-07-19",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-19",
+      "2026-07-20"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-07-20",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1501",
+    "event": "L15",
+    "first_day": "2026-07-19",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-19",
+      "2026-07-21"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-21",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1502",
+    "event": "L15",
+    "first_day": "2026-07-19",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-20",
+      "2026-07-21"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-20",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1503",
+    "event": "L15",
+    "first_day": "2026-07-19",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-19",
+      "2026-07-20"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-21",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1504",
+    "event": "L15",
+    "first_day": "2026-07-19",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-19",
+      "2026-07-21"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-07-20",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1505",
+    "event": "L15",
+    "first_day": "2026-07-19",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-20",
+      "2026-07-21"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-21",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1506",
+    "event": "L15",
+    "first_day": "2026-07-19",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-19",
+      "2026-07-20"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-20",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1507",
+    "event": "L15",
+    "first_day": "2026-07-19",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-19",
+      "2026-07-21"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-21",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1600",
+    "event": "L16",
+    "first_day": "2026-07-22",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-22",
+      "2026-07-23"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-07-23",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1601",
+    "event": "L16",
+    "first_day": "2026-07-22",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-22",
+      "2026-07-24"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-24",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1602",
+    "event": "L16",
+    "first_day": "2026-07-22",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-23",
+      "2026-07-24"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-23",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1603",
+    "event": "L16",
+    "first_day": "2026-07-22",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-22",
+      "2026-07-23"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-24",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1604",
+    "event": "L16",
+    "first_day": "2026-07-22",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-22",
+      "2026-07-24"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-07-23",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1605",
+    "event": "L16",
+    "first_day": "2026-07-22",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-23",
+      "2026-07-24"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-24",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1606",
+    "event": "L16",
+    "first_day": "2026-07-22",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-22",
+      "2026-07-23"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-23",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1607",
+    "event": "L16",
+    "first_day": "2026-07-22",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-22",
+      "2026-07-24"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-24",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1608",
+    "event": "L16",
+    "first_day": "2026-07-22",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-23",
+      "2026-07-24"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-07-23",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1700",
+    "event": "L17",
+    "first_day": "2026-07-25",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-25",
+      "2026-07-26"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-07-26",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1701",
+    "event": "L17",
+    "first_day": "2026-07-25",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-25",
+      "2026-07-27"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-27",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1702",
+    "event": "L17",
+    "first_day": "2026-07-25",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-26",
+      "2026-07-27"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-26",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1703",
+    "event": "L17",
+    "first_day": "2026-07-25",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-25",
+      "2026-07-26"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-27",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1704",
+    "event": "L17",
+    "first_day": "2026-07-25",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-25",
+      "2026-07-27"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-07-26",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1705",
+    "event": "L17",
+    "first_day": "2026-07-25",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-26",
+      "2026-07-27"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-27",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1706",
+    "event": "L17",
+    "first_day": "2026-07-25",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-25",
+      "2026-07-26"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-26",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1707",
+    "event": "L17",
+    "first_day": "2026-07-25",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-25",
+      "2026-07-27"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-27",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1708",
+    "event": "L17",
+    "first_day": "2026-07-25",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-26",
+      "2026-07-27"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-07-26",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1709",
+    "event": "L17",
+    "first_day": "2026-07-25",
+    "tour": "团2",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-25",
+      "2026-07-26"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-27",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1800",
+    "event": "L18",
+    "first_day": "2026-07-28",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-28",
+      "2026-07-29"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-07-29",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1801",
+    "event": "L18",
+    "first_day": "2026-07-28",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-28",
+      "2026-07-30"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-30",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1802",
+    "event": "L18",
+    "first_day": "2026-07-28",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-29",
+      "2026-07-30"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-29",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1803",
+    "event": "L18",
+    "first_day": "2026-07-28",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-28",
+      "2026-07-29"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-30",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1804",
+    "event": "L18",
+    "first_day": "2026-07-28",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-28",
+      "2026-07-30"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-07-29",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1805",
+    "event": "L18",
+    "first_day": "2026-07-28",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-29",
+      "2026-07-30"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-07-30",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1806",
+    "event": "L18",
+    "first_day": "2026-07-28",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-28",
+      "2026-07-29"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-29",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1807",
+    "event": "L18",
+    "first_day": "2026-07-28",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-28",
+      "2026-07-30"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-30",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1808",
+    "event": "L18",
+    "first_day": "2026-07-28",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-29",
+      "2026-07-30"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-07-29",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1809",
+    "event": "L18",
+    "first_day": "2026-07-28",
+    "tour": "团2",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-28",
+      "2026-07-29"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-07-30",
+    "existing": false,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1810",
+    "event": "L18",
+    "first_day": "2026-07-28",
+    "tour": "团2",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-28",
+      "2026-07-30"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-07-29",
+    "existing": false,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1900",
+    "event": "L19",
+    "first_day": "2026-07-31",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-31",
+      "2026-08-01"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-08-01",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1901",
+    "event": "L19",
+    "first_day": "2026-07-31",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-31",
+      "2026-08-02"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-08-02",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1902",
+    "event": "L19",
+    "first_day": "2026-07-31",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-08-01",
+      "2026-08-02"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-08-01",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1903",
+    "event": "L19",
+    "first_day": "2026-07-31",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-31",
+      "2026-08-01"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-02",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1904",
+    "event": "L19",
+    "first_day": "2026-07-31",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-07-31",
+      "2026-08-02"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-08-01",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1905",
+    "event": "L19",
+    "first_day": "2026-07-31",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-08-01",
+      "2026-08-02"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-08-02",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1906",
+    "event": "L19",
+    "first_day": "2026-07-31",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-31",
+      "2026-08-01"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-01",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1907",
+    "event": "L19",
+    "first_day": "2026-07-31",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-07-31",
+      "2026-08-02"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-08-02",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1908",
+    "event": "L19",
+    "first_day": "2026-07-31",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-08-01",
+      "2026-08-02"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-08-01",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1909",
+    "event": "L19",
+    "first_day": "2026-07-31",
+    "tour": "团2",
+    "people": 2,
+    "allowed_days": [
+      "2026-07-31",
+      "2026-08-01"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-02",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B1910",
+    "event": "L19",
+    "first_day": "2026-07-31",
+    "tour": "团2",
+    "people": 3,
+    "allowed_days": [
+      "2026-07-31",
+      "2026-08-02"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-08-01",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B1911",
+    "event": "L19",
+    "first_day": "2026-07-31",
+    "tour": "团2",
+    "people": 4,
+    "allowed_days": [
+      "2026-08-01",
+      "2026-08-02"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-08-02",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2000",
+    "event": "L20",
+    "first_day": "2026-08-03",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-08-03",
+      "2026-08-04"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-08-04",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2001",
+    "event": "L20",
+    "first_day": "2026-08-03",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-08-03",
+      "2026-08-05"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-08-05",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2002",
+    "event": "L20",
+    "first_day": "2026-08-03",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-08-04",
+      "2026-08-05"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-08-04",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2003",
+    "event": "L20",
+    "first_day": "2026-08-03",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-08-03",
+      "2026-08-04"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-05",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2004",
+    "event": "L20",
+    "first_day": "2026-08-03",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-08-03",
+      "2026-08-05"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-08-04",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2005",
+    "event": "L20",
+    "first_day": "2026-08-03",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-08-04",
+      "2026-08-05"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-08-05",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2006",
+    "event": "L20",
+    "first_day": "2026-08-03",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-08-03",
+      "2026-08-04"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-04",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2007",
+    "event": "L20",
+    "first_day": "2026-08-03",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-08-03",
+      "2026-08-05"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-08-05",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2100",
+    "event": "L21",
+    "first_day": "2026-08-06",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-08-06",
+      "2026-08-07"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-08-07",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2101",
+    "event": "L21",
+    "first_day": "2026-08-06",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-08-06",
+      "2026-08-08"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-08-08",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2102",
+    "event": "L21",
+    "first_day": "2026-08-06",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-08-07",
+      "2026-08-08"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-08-07",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2103",
+    "event": "L21",
+    "first_day": "2026-08-06",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-08-06",
+      "2026-08-07"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-08",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2104",
+    "event": "L21",
+    "first_day": "2026-08-06",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-08-06",
+      "2026-08-08"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-08-07",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2105",
+    "event": "L21",
+    "first_day": "2026-08-06",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-08-07",
+      "2026-08-08"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-08-08",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2106",
+    "event": "L21",
+    "first_day": "2026-08-06",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-08-06",
+      "2026-08-07"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-07",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2107",
+    "event": "L21",
+    "first_day": "2026-08-06",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-08-06",
+      "2026-08-08"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-08-08",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2108",
+    "event": "L21",
+    "first_day": "2026-08-06",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-08-07",
+      "2026-08-08"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-08-07",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2200",
+    "event": "L22",
+    "first_day": "2026-08-09",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-08-09",
+      "2026-08-10"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-08-10",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2201",
+    "event": "L22",
+    "first_day": "2026-08-09",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-08-09",
+      "2026-08-11"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-08-11",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2202",
+    "event": "L22",
+    "first_day": "2026-08-09",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-08-10",
+      "2026-08-11"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-08-10",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2203",
+    "event": "L22",
+    "first_day": "2026-08-09",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-08-09",
+      "2026-08-10"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-11",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2204",
+    "event": "L22",
+    "first_day": "2026-08-09",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-08-09",
+      "2026-08-11"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-08-10",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2205",
+    "event": "L22",
+    "first_day": "2026-08-09",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-08-10",
+      "2026-08-11"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-08-11",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2206",
+    "event": "L22",
+    "first_day": "2026-08-09",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-08-09",
+      "2026-08-10"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-10",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2207",
+    "event": "L22",
+    "first_day": "2026-08-09",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-08-09",
+      "2026-08-11"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-08-11",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2208",
+    "event": "L22",
+    "first_day": "2026-08-09",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-08-10",
+      "2026-08-11"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-08-10",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2209",
+    "event": "L22",
+    "first_day": "2026-08-09",
+    "tour": "团2",
+    "people": 2,
+    "allowed_days": [
+      "2026-08-09",
+      "2026-08-10"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-11",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2300",
+    "event": "L23",
+    "first_day": "2026-08-12",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-08-12",
+      "2026-08-13"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-08-13",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2301",
+    "event": "L23",
+    "first_day": "2026-08-12",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-08-12",
+      "2026-08-14"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-08-14",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2302",
+    "event": "L23",
+    "first_day": "2026-08-12",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-08-13",
+      "2026-08-14"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-08-13",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2303",
+    "event": "L23",
+    "first_day": "2026-08-12",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-08-12",
+      "2026-08-13"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-14",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2304",
+    "event": "L23",
+    "first_day": "2026-08-12",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-08-12",
+      "2026-08-14"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-08-13",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2305",
+    "event": "L23",
+    "first_day": "2026-08-12",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-08-13",
+      "2026-08-14"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-08-14",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2306",
+    "event": "L23",
+    "first_day": "2026-08-12",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-08-12",
+      "2026-08-13"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-13",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2307",
+    "event": "L23",
+    "first_day": "2026-08-12",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-08-12",
+      "2026-08-14"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-08-14",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2308",
+    "event": "L23",
+    "first_day": "2026-08-12",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-08-13",
+      "2026-08-14"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-08-13",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2309",
+    "event": "L23",
+    "first_day": "2026-08-12",
+    "tour": "团2",
+    "people": 2,
+    "allowed_days": [
+      "2026-08-12",
+      "2026-08-13"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-14",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2310",
+    "event": "L23",
+    "first_day": "2026-08-12",
+    "tour": "团2",
+    "people": 3,
+    "allowed_days": [
+      "2026-08-12",
+      "2026-08-14"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-08-13",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2400",
+    "event": "L24",
+    "first_day": "2026-08-15",
+    "tour": "团0",
+    "people": 1,
+    "allowed_days": [
+      "2026-08-15",
+      "2026-08-16"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 0,
+    "until": "2026-08-16",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2401",
+    "event": "L24",
+    "first_day": "2026-08-15",
+    "tour": "团0",
+    "people": 2,
+    "allowed_days": [
+      "2026-08-15",
+      "2026-08-17"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-08-17",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2402",
+    "event": "L24",
+    "first_day": "2026-08-15",
+    "tour": "团0",
+    "people": 3,
+    "allowed_days": [
+      "2026-08-16",
+      "2026-08-17"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-08-16",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2403",
+    "event": "L24",
+    "first_day": "2026-08-15",
+    "tour": "团0",
+    "people": 4,
+    "allowed_days": [
+      "2026-08-15",
+      "2026-08-16"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-17",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2404",
+    "event": "L24",
+    "first_day": "2026-08-15",
+    "tour": "团1",
+    "people": 1,
+    "allowed_days": [
+      "2026-08-15",
+      "2026-08-17"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 70,
+    "priority": 1,
+    "until": "2026-08-16",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2405",
+    "event": "L24",
+    "first_day": "2026-08-15",
+    "tour": "团1",
+    "people": 2,
+    "allowed_days": [
+      "2026-08-16",
+      "2026-08-17"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-08-17",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2406",
+    "event": "L24",
+    "first_day": "2026-08-15",
+    "tour": "团1",
+    "people": 3,
+    "allowed_days": [
+      "2026-08-15",
+      "2026-08-16"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-16",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2407",
+    "event": "L24",
+    "first_day": "2026-08-15",
+    "tour": "团1",
+    "people": 4,
+    "allowed_days": [
+      "2026-08-15",
+      "2026-08-17"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-08-17",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2408",
+    "event": "L24",
+    "first_day": "2026-08-15",
+    "tour": "团2",
+    "people": 1,
+    "allowed_days": [
+      "2026-08-16",
+      "2026-08-17"
+    ],
+    "fallback": [],
+    "refund": 70,
+    "priority": 2,
+    "until": "2026-08-16",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2409",
+    "event": "L24",
+    "first_day": "2026-08-15",
+    "tour": "团2",
+    "people": 2,
+    "allowed_days": [
+      "2026-08-15",
+      "2026-08-16"
+    ],
+    "fallback": [
+      "游线早",
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 0,
+    "until": "2026-08-17",
+    "existing": true,
+    "option": "保留共同备选"
+  },
+  {
+    "booking": "B2410",
+    "event": "L24",
+    "first_day": "2026-08-15",
+    "tour": "团2",
+    "people": 3,
+    "allowed_days": [
+      "2026-08-15",
+      "2026-08-17"
+    ],
+    "fallback": [
+      "游线晚"
+    ],
+    "refund": 120,
+    "priority": 1,
+    "until": "2026-08-16",
+    "existing": true,
+    "option": "只保留单一时段"
+  },
+  {
+    "booking": "B2411",
+    "event": "L24",
+    "first_day": "2026-08-15",
+    "tour": "团2",
+    "people": 4,
+    "allowed_days": [
+      "2026-08-16",
+      "2026-08-17"
+    ],
+    "fallback": [],
+    "refund": 120,
+    "priority": 2,
+    "until": "2026-08-17",
+    "existing": true,
+    "option": "只保留单一时段"
+  }
+]

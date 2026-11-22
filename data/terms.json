@@ -1,0 +1,32 @@
+[
+  {
+    "terms": "基本",
+    "deadline_days": 2,
+    "max_refund": 1050,
+    "services": [
+      "观礼",
+      "游线早"
+    ],
+    "min_notice": 1
+  },
+  {
+    "terms": "灵活",
+    "deadline_days": 2,
+    "max_refund": 740,
+    "services": [
+      "观礼",
+      "游线早",
+      "游线晚"
+    ],
+    "min_notice": 0
+  },
+  {
+    "terms": "保守",
+    "deadline_days": 1,
+    "max_refund": 1400,
+    "services": [
+      "观礼"
+    ],
+    "min_notice": 0
+  }
+]
